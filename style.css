@@ -1,0 +1,29 @@
+.show{
+	
+	width: 500px;
+}
+#app{
+	width: 1000px;
+	margin: 0 auto;
+}
+h1{
+	border-bottom: 1px solid #000;
+}
+li span{
+	float: right;
+	display: none;
+	cursor: pointer;
+	font-size: 16px;
+	
+
+}
+li:hover span{
+	display: block;
+}
+li span:hover{
+	color:red;
+	border:1px solid;
+}
+.hide{
+	display: none;
+}
