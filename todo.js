@@ -53,7 +53,7 @@ var i = 0;
 					this.task = json
 				})
 					
-			}
+			},
 			Edit:function(index){
 				alert("double click work!");
 			}
